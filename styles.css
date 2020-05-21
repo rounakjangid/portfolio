@@ -1,0 +1,94 @@
+h1 {
+    color: purple;
+    background-color: lightgray;
+    font-family: cursive;
+    text-align: center;
+}
+.class{
+    display: block;
+    width: 70%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+html {
+    background-color: lavender;
+}
+h2{
+    color:darkred;
+    background-color: lightcoral;
+}
+.box-one h3 {
+    font-family: sans-serif;
+    text-align: justify;
+    padding-left: 50px ;
+
+}
+.box-2 h3{
+    font-family: sans-serif;
+    padding-left: 50px;
+}
+.box-3 h3{
+    font-family: sans-serif;
+    padding-left: 100px;
+}
+.box-4{
+    font-family: sans-serif;
+    padding-left: 50px ;
+}
+.box-5{
+    font-family: sans-serif;
+    padding-left: 50px;
+
+}
+.box-6{
+font-family: sans-serif;
+padding-left: 50px;
+}
+.box-7{
+font-family: sans-serif;
+padding-left: 50px;
+}
+.box-8{
+    font-family:sans-serif ;
+    padding-left: 50px;
+
+}
+.box-9{
+    font-style: italic;
+    padding-left: 50px;
+    border: 5px solid;
+
+}
+.tech{
+    height: 30%;
+    width:50%;
+    padding-right: 30PX;
+}
+.hob{
+    height:50% ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.car{
+    height: 50%;
+    width: 50%;
+    padding-left: 30PX;
+
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+    width: 40%;
+}
+.trai{
+    height:40% ;
+    width: 60%;
+}
+ 
